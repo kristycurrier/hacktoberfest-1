@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    class helloworld
+    class HelloWorld
     {
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            
+            Console.WriteLine("Hello world, welcome to Hacktoberfest");
         }
     }
 }
